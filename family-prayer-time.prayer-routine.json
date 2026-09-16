@@ -1,0 +1,59 @@
+{
+  "id": "family-prayer-time",
+  "name": "Family Prayer Time",
+  "description": "A short routine for households: Scripture, the Lord's Prayer, prayer list, and a blessing.",
+  "author": "Theodia",
+  "traditions": ["General"],
+  "tags": ["family", "household", "evening", "ecumenical"],
+  "version": "1.0.0",
+  "createdAt": "2026-09-16T00:00:00.000Z",
+  "source": "repo",
+  "type": "single",
+  "featureType": "routine",
+  "data": {
+    "id": "family-prayer-time",
+    "name": "Family Prayer Time",
+    "description": "A short routine for households: Scripture, the Lord's Prayer, prayer list, and a blessing.",
+    "traditionTag": "General",
+    "folderId": null,
+    "tags": ["family", "household", "evening", "ecumenical"],
+    "isPinned": true,
+    "steps": [
+      {
+        "id": "family-1",
+        "type": "passage",
+        "label": "A Family Scripture",
+        "reference": "Psalm 121",
+        "defaultBible": null,
+        "openInReader": true,
+        "speakPassage": true,
+        "durationSeconds": 180,
+        "autoAdvance": false
+      },
+      {
+        "id": "family-2",
+        "type": "fixed_prayer",
+        "label": "The Lord's Prayer",
+        "fixedPrayerId": "lords-prayer",
+        "speakText": true,
+        "largeType": false
+      },
+      {
+        "id": "family-3",
+        "type": "prayer_list",
+        "label": "Family Prayers",
+        "folderId": null,
+        "mode": "scroll",
+        "durationSeconds": 0,
+        "autoMarkPrayed": false
+      },
+      {
+        "id": "family-4",
+        "type": "free_prayer",
+        "label": "Household Blessing",
+        "prompt": "Pray a blessing over each person in your home. Ask God to keep you in peace, love, and safety through the night and days ahead.",
+        "durationSeconds": 120
+      }
+    ]
+  }
+}

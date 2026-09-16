@@ -1,0 +1,63 @@
+{
+  "id": "grief-and-loss",
+  "name": "Prayer in Grief",
+  "description": "A tender routine for grief: a Psalm of lament, fixed prayer, silence, and a journal prompt.",
+  "author": "Theodia",
+  "traditions": ["General"],
+  "tags": ["grief", "loss", "lament", "comfort"],
+  "version": "1.0.0",
+  "createdAt": "2026-09-16T00:00:00.000Z",
+  "source": "repo",
+  "type": "single",
+  "featureType": "routine",
+  "data": {
+    "id": "grief-and-loss",
+    "name": "Prayer in Grief",
+    "description": "A tender routine for grief: a Psalm of lament, fixed prayer, silence, and a journal prompt.",
+    "traditionTag": "General",
+    "folderId": null,
+    "tags": ["grief", "loss", "lament", "comfort"],
+    "isPinned": true,
+    "steps": [
+      {
+        "id": "grief-1",
+        "type": "passage",
+        "label": "A Psalm of Lament",
+        "reference": "Psalm 22:1-11",
+        "defaultBible": null,
+        "openInReader": true,
+        "speakPassage": true,
+        "durationSeconds": 180,
+        "autoAdvance": false
+      },
+      {
+        "id": "grief-2",
+        "type": "fixed_prayer",
+        "label": "The Lord's Prayer",
+        "fixedPrayerId": "lords-prayer",
+        "speakText": true,
+        "largeType": false
+      },
+      {
+        "id": "grief-3",
+        "type": "silence",
+        "label": "God Hears Your Tears",
+        "durationSeconds": 300,
+        "startBell": true,
+        "endBell": true,
+        "ambientSound": "none",
+        "screenMode": "candle",
+        "keepAwake": true
+      },
+      {
+        "id": "grief-4",
+        "type": "reflection",
+        "label": "Remember and Release",
+        "prompt": "Hold before God what or whom you have lost. What do you want to remember, release, or entrust to God's care?",
+        "saveToJournal": true,
+        "journalTitle": "In My Grief",
+        "durationSeconds": 240
+      }
+    ]
+  }
+}
