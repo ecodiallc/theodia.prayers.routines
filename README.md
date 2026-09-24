@@ -6,6 +6,7 @@ A dedicated repository of downloadable prayer routines for the Theodia app.
 |---|---|
 | `morning-prayer-lite.prayer.zip` | Short daily routine: Psalm of the day, Proverbs, silence, prayer list, Lord's Prayer |
 | `evening-examen.prayer.zip` | Review the day with gratitude, confession, reflection, and surrender |
+| `peace-and-rest.prayer.zip` | Short routine to surrender anxiety, receive God's peace, and rest in stillness |
 | `daily-office-lite.prayer.zip` | Psalm, Proverbs, creed, prayer list, Lord's Prayer |
 | `family-prayer-time.prayer.zip` | Passage, Lord's Prayer, prayer list, short blessing |
 | `workday-prayer-break.prayer.zip` | Silence, breath prayer, Scripture, prayer list |
