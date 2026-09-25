@@ -1,0 +1,116 @@
+{
+  "version": 1,
+  "updatedAt": "2026-09-25T00:00:00.000Z",
+  "packages": [
+    {
+      "id": "morning-prayer-lite",
+      "type": "routine",
+      "path": "Morning-Prayer-Lite.prayer.zip",
+      "name": "Morning Prayer Lite",
+      "description": "Short daily routine: Psalm of the day, Proverbs, silence, prayer list, Lord's Prayer",
+      "author": "Theodia",
+      "traditions": ["General"],
+      "tags": ["routine", "morning", "daily", "psalm", "proverbs", "prayer-list", "lords-prayer"],
+      "version": "1.0.0"
+    },
+    {
+      "id": "evening-examen",
+      "type": "routine",
+      "path": "Evening-Examen.prayer.zip",
+      "name": "Evening Examen",
+      "description": "Review the day with gratitude, confession, reflection, and surrender",
+      "author": "Theodia",
+      "traditions": ["General"],
+      "tags": ["routine", "evening", "examen", "gratitude", "confession", "reflection"],
+      "version": "1.0.0"
+    },
+    {
+      "id": "peace-and-rest",
+      "type": "routine",
+      "path": "Peace-And-Rest.prayer.zip",
+      "name": "Peace and Rest",
+      "description": "Short routine to surrender anxiety, receive God's peace, and rest in stillness",
+      "author": "Theodia",
+      "traditions": ["General"],
+      "tags": ["routine", "peace", "rest", "anxiety", "stillness"],
+      "version": "1.0.0"
+    },
+    {
+      "id": "daily-office-lite",
+      "type": "routine",
+      "path": "Daily-Office-Lite.prayer.zip",
+      "name": "Daily Office Lite",
+      "description": "Psalm, Proverbs, creed, prayer list, Lord's Prayer",
+      "author": "Theodia",
+      "traditions": ["General", "Anglican"],
+      "tags": ["routine", "daily-office", "psalm", "proverbs", "creed", "lords-prayer"],
+      "version": "1.0.0"
+    },
+    {
+      "id": "family-prayer-time",
+      "type": "routine",
+      "path": "Family-Prayer-Time.prayer.zip",
+      "name": "Family Prayer Time",
+      "description": "Passage, Lord's Prayer, prayer list, short blessing",
+      "author": "Theodia",
+      "traditions": ["General"],
+      "tags": ["routine", "family", "passage", "lords-prayer", "blessing"],
+      "version": "1.0.0"
+    },
+    {
+      "id": "workday-prayer-break",
+      "type": "routine",
+      "path": "Workday-Prayer-Break.prayer.zip",
+      "name": "Workday Prayer Break",
+      "description": "Silence, breath prayer, Scripture, prayer list",
+      "author": "Theodia",
+      "traditions": ["General"],
+      "tags": ["routine", "workday", "work", "silence", "breath-prayer", "scripture"],
+      "version": "1.0.0"
+    },
+    {
+      "id": "sick-or-anxious",
+      "type": "routine",
+      "path": "Sick-Or-Anxious.prayer.zip",
+      "name": "Sick Or Anxious",
+      "description": "Psalm, fixed prayer for comfort, silence, reflection",
+      "author": "Theodia",
+      "traditions": ["General"],
+      "tags": ["routine", "sick", "anxious", "comfort", "psalm", "prayer"],
+      "version": "1.0.0"
+    },
+    {
+      "id": "waiting-and-hoping",
+      "type": "routine",
+      "path": "Waiting-And-Hoping.prayer.zip",
+      "name": "Waiting And Hoping",
+      "description": "Lectionary, silence, reflection, free prayer",
+      "author": "Theodia",
+      "traditions": ["General"],
+      "tags": ["routine", "waiting", "hope", "lectionary", "silence", "reflection"],
+      "version": "1.0.0"
+    },
+    {
+      "id": "grief-and-loss",
+      "type": "routine",
+      "path": "Grief-And-Loss.prayer.zip",
+      "name": "Grief And Loss",
+      "description": "Psalm of lament, fixed prayer, silence, journal prompt",
+      "author": "Theodia",
+      "traditions": ["General"],
+      "tags": ["routine", "grief", "loss", "lament", "psalm", "journal"],
+      "version": "1.0.0"
+    },
+    {
+      "id": "new-believer-starter",
+      "type": "routine",
+      "path": "New-Believer-Starter.prayer.zip",
+      "name": "New Believer Starter",
+      "description": "Apostles' Creed, Lord's Prayer, Psalm 23, silence",
+      "author": "Theodia",
+      "traditions": ["General"],
+      "tags": ["routine", "new-believer", "starter", "apostles-creed", "lords-prayer", "psalm-23"],
+      "version": "1.0.0"
+    }
+  ]
+}
