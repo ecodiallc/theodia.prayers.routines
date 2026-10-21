@@ -1,19 +1,30 @@
 # Theodia Prayer Routines
 
-A dedicated repository of downloadable prayer routines for the Theodia app.
+| ID | Name |
+| --- | ---- |
+| `morning-prayer-lite` | Morning Prayer Lite |
+| `evening-examen` | Evening Examen |
+| `peace-and-rest-routine` | Peace and Rest |
+| `daily-office-lite` | Daily Office Lite |
+| `family-prayer-time` | Family Prayer Time |
+| `workday-prayer-break` | Workday Prayer Break |
+| `sick-or-anxious` | Sick Or Anxious |
+| `waiting-and-hoping` | Waiting And Hoping |
+| `grief-and-loss` | Grief And Loss |
+| `new-believer-starter` | New Believer Starter |
 
-| File | Contents |
-|---|---|
-| `Morning-Prayer-Lite.prayer.zip` | Short daily routine: Psalm of the day, Proverbs, silence, prayer list, Lord's Prayer |
-| `Evening-Examen.prayer.zip` | Review the day with gratitude, confession, reflection, and surrender |
-| `Peace-And-Rest.prayer.zip` | Short routine to surrender anxiety, receive God's peace, and rest in stillness |
-| `Daily-Office-Lite.prayer.zip` | Psalm, Proverbs, creed, prayer list, Lord's Prayer |
-| `Family-Prayer-Time.prayer.zip` | Passage, Lord's Prayer, prayer list, short blessing |
-| `Workday-Prayer-Break.prayer.zip` | Silence, breath prayer, Scripture, prayer list |
-| `Sick-Or-Anxious.prayer.zip` | Psalm, fixed prayer for comfort, silence, reflection |
-| `Waiting-And-Hoping.prayer.zip` | Lectionary, silence, reflection, free prayer |
-| `Grief-And-Loss.prayer.zip` | Psalm of lament, fixed prayer, silence, journal prompt |
-| `New-Believer-Starter.prayer.zip` | Apostles' Creed, Lord's Prayer, Psalm 23, silence |
+## Sources
+
+- `morning-prayer-lite`: Short daily routine: Psalm of the day, Proverbs, silence, prayer list, Lord's Prayer
+- `evening-examen`: Review the day with gratitude, confession, reflection, and surrender
+- `peace-and-rest-routine`: Short routine to surrender anxiety, receive God's peace, and rest in stillness
+- `daily-office-lite`: Psalm, Proverbs, creed, prayer list, Lord's Prayer
+- `family-prayer-time`: Passage, Lord's Prayer, prayer list, short blessing
+- `workday-prayer-break`: Silence, breath prayer, Scripture, prayer list
+- `sick-or-anxious`: Psalm, fixed prayer for comfort, silence, reflection
+- `waiting-and-hoping`: Lectionary, silence, reflection, free prayer
+- `grief-and-loss`: Psalm of lament, fixed prayer, silence, journal prompt
+- `new-believer-starter`: Apostles' Creed, Lord's Prayer, Psalm 23, silence
 
 ## Format
 
