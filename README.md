@@ -33,3 +33,8 @@ All packages are `.prayer.zip` files in the bulk-export format used by the Theod
 ## Source
 
 Routines are authored by Theodia for ecumenical use across Christian traditions and Jewish practice where applicable.
+
+### Download Theodia.app
+
+- [App Store](https://apps.apple.com/us/app/theodia/id6783143344)
+- [Google Play](https://play.google.com/store/apps/details?id=com.ecodia.theodia)
