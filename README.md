@@ -2,29 +2,29 @@
 
 | ID | Name |
 | --- | ---- |
-| `morning-prayer-lite` | Morning Prayer Lite |
-| `evening-examen` | Evening Examen |
-| `peace-and-rest-routine` | Peace and Rest |
 | `daily-office-lite` | Daily Office Lite |
+| `evening-examen` | Evening Examen |
 | `family-prayer-time` | Family Prayer Time |
-| `workday-prayer-break` | Workday Prayer Break |
+| `grief-and-loss` | Grief And Loss |
+| `morning-prayer-lite` | Morning Prayer Lite |
+| `new-believer-starter` | New Believer Starter |
+| `peace-and-rest-routine` | Peace and Rest |
 | `sick-or-anxious` | Sick Or Anxious |
 | `waiting-and-hoping` | Waiting And Hoping |
-| `grief-and-loss` | Grief And Loss |
-| `new-believer-starter` | New Believer Starter |
+| `workday-prayer-break` | Workday Prayer Break |
 
 ## Sources
 
-- `morning-prayer-lite`: Short daily routine: Psalm of the day, Proverbs, silence, prayer list, Lord's Prayer
-- `evening-examen`: Review the day with gratitude, confession, reflection, and surrender
-- `peace-and-rest-routine`: Short routine to surrender anxiety, receive God's peace, and rest in stillness
 - `daily-office-lite`: Psalm, Proverbs, creed, prayer list, Lord's Prayer
+- `evening-examen`: Review the day with gratitude, confession, reflection, and surrender
 - `family-prayer-time`: Passage, Lord's Prayer, prayer list, short blessing
-- `workday-prayer-break`: Silence, breath prayer, Scripture, prayer list
+- `grief-and-loss`: Psalm of lament, fixed prayer, silence, journal prompt
+- `morning-prayer-lite`: Short daily routine: Psalm of the day, Proverbs, silence, prayer list, Lord's Prayer
+- `new-believer-starter`: Apostles' Creed, Lord's Prayer, Psalm 23, silence
+- `peace-and-rest-routine`: Short routine to surrender anxiety, receive God's peace, and rest in stillness
 - `sick-or-anxious`: Psalm, fixed prayer for comfort, silence, reflection
 - `waiting-and-hoping`: Lectionary, silence, reflection, free prayer
-- `grief-and-loss`: Psalm of lament, fixed prayer, silence, journal prompt
-- `new-believer-starter`: Apostles' Creed, Lord's Prayer, Psalm 23, silence
+- `workday-prayer-break`: Silence, breath prayer, Scripture, prayer list
 
 ## Format
 
